@@ -1,0 +1,15 @@
+{
+  "sessions": [
+    {
+      "id": "472158048:472158048",
+      "data": {
+        "__scenes": {
+          "current": "askLogin",
+          "state": {
+            "serviceName": "hell"
+          }
+        }
+      }
+    }
+  ]
+}
