@@ -4,11 +4,22 @@
       "id": "472158048:472158048",
       "data": {
         "__scenes": {
-          "current": "askLogin",
-          "state": {
-            "serviceName": "hell"
-          }
-        }
+          "current": "addCredential",
+          "state": {},
+          "cursor": 3
+        },
+        "serviceName": "AWS",
+        "password": "Barsbek",
+        "login": "brom"
+      }
+    },
+    {
+      "id": "886634951:886634951",
+      "data": {
+        "__scenes": {},
+        "serviceName": "jira",
+        "password": "io.aktan.dev",
+        "login": "login"
       }
     }
   ]
